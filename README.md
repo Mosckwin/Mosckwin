@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mosckwin
-- 👀 I’m interested in web
-- 🌱 I’m currently learning py
-- 💞️ I’m looking to collaborate on web/game
+- 👀 I’m interested in learnig python
+- 🌱 I’m currently learning a basics
+- 💞️ I’m looking to collaborate with noobs
 - 📫 How to reach me saint_worldwide tg
 
 <!---
